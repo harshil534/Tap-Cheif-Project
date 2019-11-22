@@ -1,0 +1,3 @@
+This app can be used as a classifier by adding a feature extraction of the data.
+It could be like a machine learning model to characterise documents to different classes.
+Also a Image Addition feature can be added to find images like a image searcher.
